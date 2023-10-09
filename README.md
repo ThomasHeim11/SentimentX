@@ -52,18 +52,6 @@ access_token_secret = Your Keys
 <p><img  alt="GIF" src="https://github.com/everydaycodings/Twitter-Sentimental-Analysis-WebApp/blob/master/presentation/pic1.png" width="240" height="410" /></p>
 
 
-### If you Use this Code for Any Commercial Purpose. Please Don't Forget To mention or give shoutout to [everydaycodings](https://github.com/everydaycodings).
-
-### Donate If you fell this Web App Makes your work a bit easy.
-
-#### Binance (BNB)
-```
-0x846d778c4714830C8cdcB2Af85F76544CFf0d9A1
-```
-#### Cardano(ADA)
-```
-addr1q8fstx3ut2nfhrv9e324tyfdp2uwcvy0uree3junwll5y5p7lnnqpnq6ufjh4qfkul9tvx49udsnyq7vmst6huvngyss72e63v
-```
 
 #### Bitcoin(BTC)
 ```
