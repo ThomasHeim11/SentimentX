@@ -52,8 +52,3 @@ access_token_secret = Your Keys
 <p><img  alt="GIF" src="https://github.com/everydaycodings/Twitter-Sentimental-Analysis-WebApp/blob/master/presentation/pic1.png" width="240" height="410" /></p>
 
 
-
-#### Bitcoin(BTC)
-```
-bc1qutf2e707aglx8wqmf4x8e7rzxaunmxlcnpyxqr
-```
